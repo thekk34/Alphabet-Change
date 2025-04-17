@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alphabet-Change/static/css/main.2dea33a6.css",
+    "main.js": "/Alphabet-Change/static/js/main.5d78e71b.js",
+    "static/js/453.625a9895.chunk.js": "/Alphabet-Change/static/js/453.625a9895.chunk.js",
+    "index.html": "/Alphabet-Change/index.html",
+    "main.2dea33a6.css.map": "/Alphabet-Change/static/css/main.2dea33a6.css.map",
+    "main.5d78e71b.js.map": "/Alphabet-Change/static/js/main.5d78e71b.js.map",
+    "453.625a9895.chunk.js.map": "/Alphabet-Change/static/js/453.625a9895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dea33a6.css",
+    "static/js/main.5d78e71b.js"
+  ]
+}
